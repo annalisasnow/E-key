@@ -1,0 +1,21 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "A simple app with elecctron, Just sorta training",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "test",
+    "keynote",
+    "app",
+    "simple",
+    "app"
+  ],
+  "author": "A",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.1.0"
+  }
+}
